@@ -1,0 +1,22 @@
+how what you've learned on your project will be usedful to their company
+AND have backup incase the person before you says your thing!
+Think on your feet---the company may say something you haven't known before and you ahve to add thing about your project to it.
+
+Talk about signal to noise and feaute extraction in About Me section
+
+Get any insights from LIME?
+	--do for loop over each (1) example and get most important feature
+Show mroe than one LIME plot next to global plot
+
+throw in SVM, XGBoost, KNN
+
+
+observation isnteads of lines or rows --look up SVM and why more rows is ok
+
+maybe don't use SVM,RF,NN picture unless you can back it up with data
+
+Have a slide that is workflow
+
+
+
+
